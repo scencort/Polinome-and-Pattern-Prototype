@@ -1,0 +1,1 @@
+# Polinome-and-Pattern-Prototype-
