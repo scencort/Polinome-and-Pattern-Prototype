@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22f585e8-7679-4610-a75c-793394283a71" name="Changes" comment="" />
+    <list default="true" id="22f585e8-7679-4610-a75c-793394283a71" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "scencort"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;scencort&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/scencort/Polinome-and-Pattern-Prototype.git",
-    "accountId": "be789a4a-e4d8-409c-b1d1-78616453cea1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/scencort/Polinome-and-Pattern-Prototype.git&quot;,
+    &quot;accountId&quot;: &quot;be789a4a-e4d8-409c-b1d1-78616453cea1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="36t3w086R7P7IMPo3VgjpUMwBwM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,7 +49,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/yaros/Desktop/Polinome-and-Pattern-Prototype"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/yaros/Desktop/Polinome-and-Pattern-Prototype",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -70,6 +74,15 @@
       <option name="presentableId" value="Default" />
       <updated>1765812274200</updated>
       <workItem from="1765812275269" duration="3439000" />
+      <workItem from="1765879873130" duration="17000" />
+      <workItem from="1765891927449" duration="265000" />
+      <workItem from="1765892203137" duration="60000" />
+      <workItem from="1765892277218" duration="86000" />
+      <workItem from="1765892371431" duration="332000" />
+      <workItem from="1765892725388" duration="112000" />
+      <workItem from="1765892847307" duration="51000" />
+      <workItem from="1765892917908" duration="24000" />
+      <workItem from="1765892949930" duration="107000" />
     </task>
     <servers />
   </component>
